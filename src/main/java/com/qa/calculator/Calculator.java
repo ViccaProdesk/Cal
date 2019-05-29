@@ -2,9 +2,11 @@ package com.qa.calculator;
 
 public class Calculator {
 
-	public int add(int num1, int num2) {
+	public double add(double num1, double num2) {
 		return num1 + num2;
 		
 	}
+
+
 
 }
